@@ -13,7 +13,7 @@ output application/json
 {
   productId: "12345",
   name: "bah",
-  provider: "asd",
+  provider: "ottokorp",
   description: "Complete mule dev course"
 }]]></ee:set-payload>
 			</ee:message>
