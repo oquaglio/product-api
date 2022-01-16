@@ -14,7 +14,7 @@ output application/json
   productId: "12345",
   name: "bah",
   provider: "asd",
-  description: "234"
+  description: "Complete mule dev course"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
